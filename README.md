@@ -1,3 +1,13 @@
+Run precompiled executable
+
+	java -jar analyzer.jar <origin_file_path> <sample_file_path>
+
+(All provided files are stored in ./samples)
+
+
+OR
+
+
 Compile
     
     mvn clean install    
